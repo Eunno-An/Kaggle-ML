@@ -41,7 +41,6 @@ https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
   LogisticRegression의 옵션에서 ridge와 lasso의 차이
   전자는 절대값, 후자는 제곱
   그래서 후자가 정확한 느낌? 이 있음.
-  
   svc('rbf'), svc('linear'), linearsvc
-  
   이게 뭔지..
+  스케일링 할때는 dataset을 split 해 준 뒤에 각각의 data set에서 해주어야 한다.
