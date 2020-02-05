@@ -38,3 +38,10 @@ https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
 
 피드백
   데이터를 첨에 분석할 때 범주형인지 아닌지 판별하는 것도 중요함!
+  LogisticRegression의 옵션에서 ridge와 lasso의 차이
+  전자는 절대값, 후자는 제곱
+  그래서 후자가 정확한 느낌? 이 있음.
+  
+  svc('rbf'), svc('linear'), linearsvc
+  
+  이게 뭔지..
