@@ -37,6 +37,7 @@ https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
 
 
 피드백
+  Context 중요! 내가 Context를 보면 domain knowledge를 포함하여 전체적으로 볼 수 있어서 방향성을 잡을수 있다!
   데이터를 첨에 분석할 때 범주형인지 아닌지 판별하는 것도 중요함!
   LogisticRegression의 옵션에서 ridge와 lasso의 차이
   전자는 절대값, 후자는 제곱
