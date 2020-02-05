@@ -34,3 +34,7 @@ Contents
 
 https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
 여기 참조하면서 https://www.kaggle.com/ronitf/heart-disease-uci 이 의료 데이터 분석 하기
+
+
+피드백
+  데이터를 첨에 분석할 때 범주형인지 아닌지 판별하는 것도 중요함!
