@@ -31,3 +31,6 @@ Contents
     B. NN 예측 및 평가 (미완)
   7. 결론
   8. 어떻게 공부하는게 좋을까요?
+
+https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
+여기 참조하면서 https://www.kaggle.com/ronitf/heart-disease-uci 이 의료 데이터 분석 하기
