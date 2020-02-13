@@ -4,6 +4,9 @@ kaggle ML
 이 링크에서 발췌했습니다.
 https://www.kaggle.com/daehungwak/guide-kor-
 
+공부할 때 좋은 링크
+https://wikidocs.net/16594
+
 Contents 
   1. 데이터 분석 시작하기 앞서서
   데이터가 어떻게 구성되어 있는지 확인합니다.
