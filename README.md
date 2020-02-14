@@ -48,3 +48,11 @@ https://www.kaggle.com/raasik/heart-disease-beginner-eda-and-machine-learning
   svc('rbf'), svc('linear'), linearsvc
   이게 뭔지..
   스케일링 할때는 dataset을 split 해 준 뒤에 각각의 data set에서 해주어야 한다.
+
+2020-02-14 피드백
+1. undersample 할 때 1과 0인 것을 데이터 분할(50:50으로)
+2. training test set 나눌 때 undersample 먼저 하지 말고 set을 먼저 나누고 undersample 진행한다.
+
+그리고 샘플링 한 뒤에 threshold를 만들고 
+outlier를 제거해야 정확성이 증가한다.
+
