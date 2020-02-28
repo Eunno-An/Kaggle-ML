@@ -17,6 +17,8 @@ Contents
   여러 시각화 툴을 사용하여 insight를 얻습니다.
   3. 탐색적 데이터 분석 (EDA, Exploratory Data Analysis)
   모델을 세우기에 앞서, 모델의 성능을 높일 수 있도록 feature 들을 engineering 합니다.
+  https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0
+  feature selection link
   one-hot encoding, class로 나누기, 구간으로 나누기, 텍스트 데이터 처리 등을 합니다.
   4. 특성 공학 (Feature Engineering)
   sklearn, keras 을 사용해 모델을 만듭니다. 파이썬에서 머신러닝을 할 때는 sklearn 을
